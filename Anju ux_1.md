@@ -3,7 +3,7 @@ problem:Create a program that shows the definition of the terms usability, usefu
 ```py
 def UX_terms("wordasked"):
   #edit definition later
-  definition = ["term of usablility","term of usefulness","term of desirability"]
+  definition = ["How it is going to be used by the user","If it is useful or not and why","Does it meet the requirement fromt the user, and does the user need it"]
   wordanswered = ["usability","usefulness","desirability"]
   for i in range (3):
     if wordanswered[i] == wordasked
